@@ -1,0 +1,7 @@
+.gallery
+{
+    width: 200px;
+    height: 100px;
+    background-image: url('../images/marine-supply.jpg');
+    background-size: auto;
+}
